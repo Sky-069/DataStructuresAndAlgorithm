@@ -20,6 +20,10 @@ namespace Dome
         {
             this.ID = Guid.NewGuid();
         }
+        static void Main(string[] args)
+        {
+            Console.WriteLine();
+        }
         /// <summary>
         /// 重载，格式化输出人员的基本数据
         /// </summary>
@@ -36,3 +40,4 @@ namespace Dome
 
     }
 }
+
