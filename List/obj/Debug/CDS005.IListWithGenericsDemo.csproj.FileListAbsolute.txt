@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.exe.config
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.exe
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.pdb
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\bin\Debug\CDS000.Common.dll
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\bin\Debug\CDS000.Common.pdb
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.exe
+C:\Users\Administrator\Desktop\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.pdb
